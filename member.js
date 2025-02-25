@@ -1,4 +1,4 @@
-function skilsmember() {
+function skilsMember() {
   return {
     skils: ['HTML', 'CSS', 'JavaScript'],
     getSkils() {
