@@ -1,3 +1,4 @@
 function skilsmember() {
-    console.log('skilsmember');
+    console.log('member');
+    return 'member';
 }
